@@ -91,7 +91,7 @@ p {
 .navbar li a:hover {
     background-color: rgba(106, 78, 205, 0.9); /* Purple blend */
     border-radius: 0px;
-    transform: scale(1.); /* Scale on hover */
+    transform: scale(1.4); /* Scale on hover */
 }
 
 main {
